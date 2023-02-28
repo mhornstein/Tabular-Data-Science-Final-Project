@@ -1,12 +1,22 @@
-the main contains 5 datasets for visualization.
+ICC graph generation
+====================
 
-At the moment, the 5th dataset is used (dataset 5: Stratification).
+Run: python main.py
+
+Explanation: main.py contains 5 datasets for visualization (by default the 5th dataset [Stratification] is enabled).
 You can comment it and uncomment another dataset visualization (according to the comments)
-to browse the resulting ICC graph.
+to browse the different resulting ICC graph.
 
-Simply run: python main.py
+Illustrating the Iris dataset
+=============================
 
-Requirements:
+Run: Iris_Ilustrations.py
+
+Explanation: This will generate an illustration like in Figure 1 in the report.
+You can play with max_depth parameter in code line 48 to get different splits count.
+
+Requirements
+============
 * graphviz
 * sklearn
 * pandas

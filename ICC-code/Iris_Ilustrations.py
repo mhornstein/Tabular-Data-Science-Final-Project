@@ -45,6 +45,6 @@ X = df.drop(['Species', 'sepal length (cm)', 'petal width (cm)'], axis=1)
 y = df['Species']
 
 # Visualizing decision tree decision bounady
-tree_classifier = DecisionTreeClassifier()
+tree_classifier = DecisionTreeClassifier(max_depth=5)
 tree_classifier.fit(X, y)
 plot_decision_boundary(X, y, tree_classifier)
