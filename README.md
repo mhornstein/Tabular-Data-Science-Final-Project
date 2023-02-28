@@ -10,9 +10,17 @@ The notebooks and Python code for each phase can be accessed in the following fo
 * **ICC-notebooks** and **MAGIC-notebooks** for the example Jupiter notebooks.
 * **ICC-code** and **MAGIC-code** for the Python code snippets. Each folder contains a readme file with instructions on how to run the code.
 
-Additionally, the required Python libraries can be found in the **requirements.txt** file, which must be installed to run the code and launch the notebooks.
-
 **Note:** Links to the online Colab notebooks are available [here](https://github.com/mhornstein/Tabular-Data-Science-Final-Project/blob/main/linksToOnlineColabNotebook.md "here").
+
+
+## Requirements and the Graphviz installation
+
+* Graphviz library needs to be installed on the operating system. 
+For ubuntu, the installation is done via: `sudo apt install graphviz`. 
+More details can be found [here](https://graphviz.org/download/ "here").
+
+* Required Python libraries listed in the **requirements.txt** file and can be installed via the `pip -r` command.
+
 
 ## Tests
 The code was tested in the environments:
