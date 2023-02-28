@@ -14,7 +14,7 @@ iris = load_iris()
 df = pd.DataFrame(data= np.c_[iris['data'], iris['target']],
                      columns= iris['feature_names'] + ['Species']).astype({'Species': 'int32'})
 
-df.head()
+df = df[(df["Species"] == 1) | (df["Species"] == 2)]
 
 import matplotlib.colors as clr
 from sklearn.tree import DecisionTreeClassifier
@@ -41,7 +41,7 @@ def plot_decision_boundary(X, y, classifier):
   plt.ylabel("worst radius")
   plt.show()
 
-X = df.drop(['Species'], axis=1)
+X = df.drop(['Species', 'sepal length (cm)', 'petal width (cm)'], axis=1)
 y = df['Species']
 
 # Visualizing decision tree decision bounady
