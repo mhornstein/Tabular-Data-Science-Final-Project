@@ -23,15 +23,3 @@ The code was tested in the environments:
 
 * **Questionnaires**  -  The questionnaires used in the project can be accessed through the links provided in the file LinksToQuestionnaires.pdf.
 * **Report** – The complete report is available in the report.pdf file.
-
-
-
-------------
-
-
-
-
-
-![Examining Iris dataset using the MAGIC visualization](https://raw.githubusercontent.com/mhornstein/Tabular-Data-Science-Report/main/iris-magic.png "Examining test-data of the Iris dataset using the MAGIC visualization")
-
-> Examining Iris dataset using the MAGIC visualization
