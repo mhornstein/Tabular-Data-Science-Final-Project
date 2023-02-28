@@ -21,5 +21,5 @@ The code was tested in the environments:
 
 ## Additional Resources
 
-* **Questionnaires**  -  The questionnaires used in the project can be accessed through the links provided in the file LinksToQuestionnaires.pdf.
-* **Report** – The complete report is available in the report.pdf file.
+* **Questionnaires**  -  The questionnaires used in the project can be accessed through the links provided in the file [LinksToQuestionnaires.pdf](https://github.com/mhornstein/Tabular-Data-Science-Final-Project/blob/main/LinksToQuestionnaires.pdf "LinksToQuestionnaires.pdf").
+* **Report** – The complete report is available in the [report.pdf](https://github.com/mhornstein/Tabular-Data-Science-Final-Project/blob/main/report.pdf "report.pdf") file.
