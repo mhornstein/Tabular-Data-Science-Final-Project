@@ -25,7 +25,7 @@ More details can be found [here](https://graphviz.org/download/ "here").
 ## Tests
 The code was tested in the environments:
 * Windows 10, python 3.10.8.
-* Linux ubuntu 22.04.2 LTS, python 3.6.
+* Linux ubuntu 22.04.2 LTS, python 3.10.6.
 
 ## Additional Resources
 
