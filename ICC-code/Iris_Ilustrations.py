@@ -1,13 +1,7 @@
 import numpy as np
 import pandas as pd
 from sklearn.datasets import load_iris # Reference: https://stackoverflow.com/questions/38105539/how-to-convert-a-scikit-learn-dataset-to-a-pandas-dataset
-import seaborn as sns
 import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.model_selection import GridSearchCV
-from sklearn.metrics import plot_confusion_matrix
-from sklearn.svm import SVC
 
 iris = load_iris()
 

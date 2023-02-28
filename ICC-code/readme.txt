@@ -10,7 +10,7 @@ to browse the different resulting ICC graph.
 Illustrating the Iris dataset
 =============================
 
-Run: Iris_Ilustrations.py
+Run: python Iris_Ilustrations.py
 
 Explanation: This will generate an illustration like in Figure 1 in the report.
 You can play with max_depth parameter in code line 48 to get different splits count.
