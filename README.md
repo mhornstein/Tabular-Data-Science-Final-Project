@@ -12,7 +12,7 @@ The notebooks and Python code for each phase can be accessed in the following fo
 
 Additionally, the required Python libraries can be found in the **requirements.txt** file, which must be installed to run the code and launch the notebooks.
 
-**Note:** Links to the online Colab notebook are available in the file [LinksToOnlineColabNotebook.pdf](https://github.com/mhornstein/Tabular-Data-Science-Final-Project/blob/main/LinksToOnlineColabNotebook.pdf "LinksToOnlineColabNotebook.pdf").
+**Note:** Links to the online Colab notebooks are available [here](https://github.com/mhornstein/Tabular-Data-Science-Final-Project/blob/main/linksToOnlineColabNotebook.md "here").
 
 ## Tests
 The code was tested in the environments:
@@ -21,5 +21,5 @@ The code was tested in the environments:
 
 ## Additional Resources
 
-* **Questionnaires**  -  The questionnaires used in the project can be accessed through the links provided in the file [LinksToQuestionnaires.pdf](https://github.com/mhornstein/Tabular-Data-Science-Final-Project/blob/main/LinksToQuestionnaires.pdf "LinksToQuestionnaires.pdf").
+* **Questionnaires**  -  Links to the questionnaires used in the project can be found [here](https://github.com/mhornstein/Tabular-Data-Science-Final-Project/blob/main/linksToQuestionnaires.md "here").
 * **Report** – The complete report is available in the [report.pdf](https://github.com/mhornstein/Tabular-Data-Science-Final-Project/blob/main/report.pdf "report.pdf") file.
