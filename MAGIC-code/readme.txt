@@ -16,9 +16,9 @@ index,a,b,c,label
 4    ,0,1,1,1
 5    ,1,0,0,1
 
-3. print to the console the predicate of each sample according to the function reflected by the train-set.
+3. Print to the console the predicate of each sample according to the function reflected by the train-set.
 4. Displays a MAGIC graph of 0-labeled samples misclassified as 1 in the test-set.
-As you can see, samples 1+2 fit it.
+As you can see, samples 1+2 fit this condition.
 
 Requirements
 ============

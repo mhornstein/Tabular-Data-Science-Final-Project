@@ -4,8 +4,7 @@ ICC graph generation
 Run: python main.py
 
 Explanation: main.py contains 5 datasets for visualization (by default the 5th dataset [Stratification] is enabled).
-You can comment it and uncomment another dataset visualization (according to the comments)
-to browse the different resulting ICC graph.
+You can comment it and uncomment another dataset visualization (according to the comments) to browse the different resulting ICC graph.
 
 Illustrating the Iris dataset
 =============================
