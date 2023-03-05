@@ -19,7 +19,7 @@ The notebooks and Python code for each phase can be accessed in the following fo
 For ubuntu, the installation is done via: `sudo apt install graphviz`. 
 More details can be found [here](https://graphviz.org/download/ "here").
 
-* Required Python libraries listed in the **requirements.txt** file and can be installed via the `pip -r` command.
+* Required Python libraries listed in the **requirements.txt** file and can be installed via the `pip install -r` command.
 
 
 ## Tests
