@@ -6,8 +6,8 @@ The project consists of two phases. In the first phase, a visualization called I
 
 ## Code
 
-The notebooks and Python code for each phase can be accessed in the following folders:
-* **ICC-notebooks** and **MAGIC-notebooks** for the example Jupiter notebooks.
+The notebooks and Python code for each phase can be found in the following folders:
+* **ICC-notebooks** and **MAGIC-notebooks** for the examples of Jupiter notebooks.
 * **ICC-code** and **MAGIC-code** for the Python code snippets. Each folder contains a readme file with instructions on how to run the code.
 
 **Note:** Links to the online Colab notebooks are available [here](https://github.com/mhornstein/Tabular-Data-Science-Final-Project/blob/main/linksToOnlineColabNotebook.md "here").
@@ -23,7 +23,7 @@ More details can be found [here](https://graphviz.org/download/ "here").
 
 
 ## Tests
-The code was tested in the environments:
+The code and notebooks were tested in the environments:
 * Windows 10, python 3.10.8.
 * Linux ubuntu 22.04.2 LTS, python 3.10.6.
 
