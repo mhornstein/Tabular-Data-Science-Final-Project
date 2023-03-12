@@ -1,7 +1,1 @@
-sklearn
-scikit-learn
-pandas
-numpy
-seaborn
-matplotlib
 graphviz

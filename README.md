@@ -21,6 +21,8 @@ More details can be found [here](https://graphviz.org/download/ "here").
 
 * Required Python libraries listed in the **requirements.txt** file and can be installed via the `pip install -r` command.
 
+* Required Python libraries that are required but seen in class can be found in the **requirements_from_class.txt** file. When needed, can be installed via the `pip install -r` command as well.
+
 
 ## Tests
 The code and notebooks were tested in the environments:
