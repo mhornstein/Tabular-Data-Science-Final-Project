@@ -4,18 +4,9 @@ Final project in *Tabular Data Science* course by Dr. Amit Somech at Bar-Ilan Un
 
 The project consists of two phases. In the first phase, a visualization called ICC was developed to overcome the limitations of scatter and jitter plots used in the EDA stage. In the second phase, an extension to ICC called MAGIC was created to explore the potential of using the ICC graph for misclassification analysis.
 
-## Code
-
-The notebooks and Python code for each phase can be found in the following folders:
-* **ICC-notebooks** and **MAGIC-notebooks** for the examples of Jupiter notebooks.
-* **ICC-code** and **MAGIC-code** for the Python code snippets. Each folder contains a readme file with instructions on how to run the code.
-
-**Note:** Links to the online Colab notebooks are available [here](https://github.com/mhornstein/Tabular-Data-Science-Final-Project/blob/main/linksToOnlineColabNotebook.md "here").
-
-
 ## Requirements and the Graphviz installation
 
-* Graphviz library needs to be installed on the operating system. 
+* <mark>Graphviz library needs to be installed on the operating system.</mark>
 For ubuntu, the installation is done via: `sudo apt install graphviz`. 
 More details can be found [here](https://graphviz.org/download/ "here").
 
@@ -23,6 +14,13 @@ More details can be found [here](https://graphviz.org/download/ "here").
 
 * Required Python libraries that are required but seen in class can be found in the **requirementsFromClass.txt** file. When needed, can be installed via the `pip install -r` command as well.
 
+## Code
+
+The notebooks and Python code for each phase can be found in the following folders:
+* **ICC-notebooks** and **MAGIC-notebooks** for the examples of Jupiter notebooks.
+* **ICC-code** and **MAGIC-code** for the Python code snippets. Each folder contains a readme file with instructions on how to run the code.
+
+**Note:** Links to the online Colab notebooks are available [here](https://github.com/mhornstein/Tabular-Data-Science-Final-Project/blob/main/linksToOnlineColabNotebook.md "here").
 
 ## Tests
 The code and notebooks were tested in the environments:
